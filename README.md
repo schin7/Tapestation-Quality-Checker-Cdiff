@@ -1,2 +1,2 @@
 # Tapestation-Quality-Checker---Cdiff
- QC tool for Tapestation to assess raw peak tables in .csv for expected calls for Clostridioides difficile 
+ Simple Pipeline QC tool for Tapestation to assess raw peak tables in .csv for expected calls for Clostridioides difficile and output as an excel sheet.
